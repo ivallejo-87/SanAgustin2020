@@ -1,0 +1,7 @@
+echo "# SanAgustin2020" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "first commit" 
+git branch -M master 
+git remote agregar origen https://github.com/ivallejo-87/SanAgustin2020.git
+ git push -u maestro de origen
